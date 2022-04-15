@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+
+body  {
+    background: -moz-linear-gradient(#00e1ff, #0000ff);
+    height: 100vh;
+}
+
+h1 {
+    font-family: 'Orbitron';
+    font-size: 2rem;
+}
+
+p {
+    font-family: 'Orbitron';
+    display: flex;
+    justify-content: center;
+}
+
+a {
+    font-family: 'Orbitron';
+    color: #fff;
+}
+
+nav {
+    margin: 1rem;
+}
+
+div {
+    margin: 1rem;
+}
+
+li {
+    font-family: 'Orbitron';
+}
+
+.violet {
+    background: #800080;
+    color: #fff;
+}
+
+.imageADN {
+    background-image: url(pics/ADN.jpg);
+    background-size: cover;
+    color: #fff;
+}
